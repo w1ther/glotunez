@@ -1,0 +1,13 @@
+{
+  "name": "w1th3r test app",
+  "version": "1.0.0",
+  "description": "w1th3r test app v1.0",
+  "author": "First Last <first.last@example.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
