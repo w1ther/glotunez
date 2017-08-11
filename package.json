@@ -1,13 +1,18 @@
 {
-  "name": "w1th3r test app",
+  "name": "w1th3r-test",
   "version": "1.0.0",
-  "description": "w1th3r test app v1.0",
-  "author": "First Last <first.last@example.com>",
+  "description": "just a test, ya know.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "w1th3r",
+  "license": "ISC",
   "dependencies": {
+    "express": "^4.15.4",
     "request": "^2.81.0"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }

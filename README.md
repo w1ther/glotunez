@@ -1,2 +1,0 @@
-# glotunez
-GLOT GLOT
